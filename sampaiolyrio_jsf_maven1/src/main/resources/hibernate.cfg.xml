@@ -33,7 +33,7 @@
         <!-- LISTA DE ENTIDADES -->
         <mapping class="br.com.sampaiolyrio.model.entities.Cidade"/>        
         <mapping class="br.com.sampaiolyrio.model.entities.Endereco"/>      
-        <mapping class="br.com.sampaiolyrio.entities.Estado"/>      
+        <mapping class="br.com.sampaiolyrio.model.entities.Estado"/>      
         <mapping class="br.com.sampaiolyrio.model.entities.Pessoa"/>               
         <mapping class="br.com.sampaiolyrio.model.entities.Sexo"/>
         <mapping class="br.com.sampaiolyrio.model.entities.TipoEndereco"/>
